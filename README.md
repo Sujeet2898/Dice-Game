@@ -1,6 +1,6 @@
 # Dice-Game
 
------------------------
+
 1. Complete the index.html and styles.css
 2. Create a new Javascript file called index.js and link to it from the index.html file.
 3. Add the images of dice6.png as the source to both of the <img> elements.
